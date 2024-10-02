@@ -1,0 +1,11 @@
+import 'package:games_animation/model/games_model.dart';
+
+List<GamesModel> gamesData = [
+  GamesModel('EA Sports FC 24',
+      'FC 24 es un videojuego de fútbol, desarrollado por EA, y publicado por EA Sports. Este juego marca la primera entrega de la serie EA Sports FC, tras la conclusión de la asociación de EA con FIFA.La versión para Nintendo Switch del juego se ejecuta por primera vez en el motor de juego Frostbite, proporcionando una jugabilidad similar a las versiones del juego para PlayStation 4 y Xbox One. Las ediciones para Switch desde FIFA 20 habían sido ampliamente criticadas por ser lanzadas como Legacy Editions; versiones del juego en las que se actualizaban los uniformes, plantillas y estadios con respecto a la versión anterior, pero no se añadían nuevas características de jugabilidad. EA Sports FC 24 introduce una experiencia completa de Ultimate Team y VOLTA Football en la Switch. A pesar de esto, no admite juego cruzado con PlayStation 4 ni Xbox One.6',
+      image:
+          'https://static.wikia.nocookie.net/doblaje/images/2/2d/EA_Sports_FC_24.png/revision/latest?cb=20240313064247&path-prefix=es'),
+  GamesModel('ELDEN RING',
+      'Elden Ring (エルデンリング Eruden Ringu?) es un videojuego de rol de acción desarrollado por FromSoftware y publicado por Bandai Namco Entertainment. El videojuego surge de una colaboración entre el director y diseñador Hidetaka Miyazaki y el novelista de fantasía George R. R. Martin El videojuego se lanzó al mercado a nivel mundial el 25 de febrero de 2022 en las plataformas Xbox One, Xbox Series X/S, Microsoft Windows, PlayStation 4, PlayStation 5.1​2​ La crítica lo elogió por el diseño de su mundo abierto, la jugabilidad y la ambientación, recibiendo algunas críticas por su rendimiento técnico. También, recibió múltiples premios a juego del año, tales como el de los Game Awards de 2022, y alcanzó las 20 millones de unidades vendidas en su primer año. En junio de 2024, se publicó el contenido descargable titulado Shadow of the Erdtree,3​el cual recibió elogios similares de la crítica y vendió más de 5 millones de unidades en la primera semana.',
+      image: 'https://images8.alphacoders.com/118/thumbbig-1186452.webp')
+];
